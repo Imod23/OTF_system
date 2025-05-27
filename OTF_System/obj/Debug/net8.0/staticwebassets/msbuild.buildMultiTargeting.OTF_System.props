@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\OTF_System.props" />
-</Project>
